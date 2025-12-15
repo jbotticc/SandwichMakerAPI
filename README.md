@@ -1,13 +1,5 @@
-### Installing necessary packages:  
-* `pip install fastapi`
-* `pip install "uvicorn[standard]"`  
-* `pip install sqlalchemy`  
-* `pip install pymysql`
-* `pip install pytest`
-* `pip install pytest-mock`
-* `pip install httpx`
-* `pip install cryptography`
-### Run the server:
-`uvicorn api.main:app --reload`
-### Test API by built-in docs:
-[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+### Sandwich Maker API:  
+* A backend API that simulates a sandwich maker system, allowing users to create, view, update, and delete sandwich data.
+* The application is built using FastAPI and connects to a MySQL database to store data.
+
+* This project was developed to practice backend development concepts such as API design, database integration, and CRUD operations.
