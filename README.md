@@ -7,10 +7,10 @@
 * Technologies: Python, FastAPI, MySQL, Git
 
 * Run with:
-* uvicorn main:app --reload
+  uvicorn main:app --reload
 
 * Features:
-* - Create, read, update, and delete sandwiches
+  - Create, read, update, and delete sandwiches
   - RESTful API design
  
 * Author: John (JJ) Botticchio
