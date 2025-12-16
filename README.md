@@ -15,8 +15,9 @@
  
 * Author: John (JJ) Botticchio
 
-</details>
-<summary> More details (optional)
+<details>
+<summary><strong>More details (optional)</strong></summary>
+  
 ### Installing necessary packages:  
 * `pip install fastapi`
 * `pip install "uvicorn[standard]"`  
@@ -29,4 +30,4 @@
 
 ### Test API by built-in docs:
 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-</summary>
+</details>
